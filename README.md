@@ -18,7 +18,7 @@ Track time across multiple projects or tasks, configure a separate time zone and
 
 ## Screenshot
 
-![Workeera Tracker](https://workeera.com/git/workeera-time-tracker/time-tracker.png)
+![Workeera Tracker](https://workeera.com/git/workeera-time-tracker/screenshots/time-tracker.png)
 
 Add the screenshot to the repository at `screenshots/time-tracker.png` so GitHub can display it here.
 
